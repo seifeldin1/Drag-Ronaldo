@@ -1,0 +1,14 @@
+.drag{
+  width: 190px;
+  height: 250px;
+  background: url(Ronaldo.jpeg);
+  color: #fff;
+  text-align: center;
+  line-height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+
+}
